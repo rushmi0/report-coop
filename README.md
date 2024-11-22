@@ -61,12 +61,3 @@ Nostr Implementation Possibilities (NIP) คือชุดข้อตกลง
 
 - 1.10.3 Client
 
-- 1.10.4 EVENT
-
-- 1.10.5 REQ
-
-- 1.10.6 COUNT
-
-- 1.10.7 CLOSE
-
-- 1.10.8 Subscription ID
